@@ -1,7 +1,7 @@
 ### HOW TO - Run the script
 ---
 
-- SSH into your `Banana Pi M3` and then clone this repository.
+- SSH into your `NanoPi M3` and then clone this repository.
 - Copy `cpuinfo.sh` into your home directory, if you like. Example: `cp cpuinfo.sh ~/cpuinfo.sh` 
 - Make the `cpuinfo.sh` file to be executable by running `chmod` command. Example: `chmod 755 cpuinfo.sh`.
 - Optionally, you could create a symbolic link to the `cpuinfo.sh` file. Example: `ln -s cpuinfo.sh cpuinfo`
